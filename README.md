@@ -29,6 +29,8 @@ This repository contains my daily Python learning notes, Jupyter Notebook practi
 | loops.ipynb | Looping concepts and programs |
 | data_structures.ipynb | Python Lists and list operations |
 | functions.ipynb | Python functions and practice |
+| Assignment.ipynb | Python assignment solutions |
+| Practice.ipynb | Additional Python coding practice |
 
 ## 🎯 Learning Goals
 
